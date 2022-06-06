@@ -10,5 +10,5 @@ Visit : https://yadavshivpal.github.io/
 
 <br/>
 <p align="center">
-<img src="https://iili.io/J4oXRf.gif" height="500" title="Portfolio DEMO">
+<img src="https://yadavshivpal.github.io/" height="500" title="Portfolio DEMO">
 </p>
